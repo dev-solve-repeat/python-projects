@@ -1,0 +1,1 @@
+a modern and preferred method in Python (version 3.6+) for easily embedding expressions, variables, and values inside a
